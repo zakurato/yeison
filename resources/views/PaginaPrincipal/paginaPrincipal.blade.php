@@ -66,13 +66,13 @@
         </a>
       </div>
 
-      <div>
+      <div style="color: white">
         <h4>Dia actual: {{$diaActual}}</h4>
         <h4>Dia de la semana: {{$diaSemana}}</h4>
         <h4>Hora actual: {{$horaActual}}</h4>
       </div>
 
-      <div>
+      <div style="color: white">
         <p>
           //SEMANAL
           <br>
@@ -84,7 +84,7 @@
         </p>
       </div>
 
-      <div>
+      <div style="color: white">
         <p>
           //QUINCENAL
           <br>
